@@ -1,0 +1,90 @@
+#add{
+  
+    background: #c63928;
+    color: white;
+    padding: 20px 45px;
+    margin: 5px;
+    outline: none;
+    border: 1px solid white;
+    font-size: 17px;    
+}
+#add:hover{
+    background:#ed4d4f;
+    color: aliceblue;
+    cursor: pointer;  
+}
+#start{
+    background-color: #fcd835;   
+    border:3px  #2a61fb solid;
+    color: #2a61fb;
+    font-family: Montserrat;
+    outline: none;
+    padding:15px 25px; 
+    font-size: 25px; 
+}
+#start:hover{
+    color: #d1cd2b;
+    background: #2a61fb;
+    border: white;
+    cursor: pointer;
+}
+
+#login{
+    background: linear-gradient(#61d0ca,#97d291);
+    color:white;
+    outline: none;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 1px white;
+    border-radius:25px;
+    margin: 4px 2px;       
+}
+#login{
+
+    cursor: pointer;
+}                                                                                                                                                              
+#SignUp{
+    color:#7851ec;
+    outline: none; 
+    padding:10px 30px;
+    border: 3px #7851ec solid; 
+    border-radius:10px; 
+    margin: 4px 2px;
+    font-size:20px;
+    font-weight: bold; 
+}
+#SignUp:hover{
+    color:white;
+    background:#7851ec;
+    border::#7851ec;
+    cursor: pointer;
+}
+#Subscribe{
+    color: white;
+    outline: none;
+    padding: 10px 30px;
+    border: 5px orange;
+    border-radius: 6px; 
+    margin: 4px 2px;
+    font-size: 20px; 
+    background: linear-gradient( #f9c233 , #f5a132)
+
+}
+#Subscribe:hover{
+   cursor: pointer;
+}
+#twitter{
+    border:2px #37a1f3 solid;
+    border-radius:100px; 
+    margin: 4px 2px;
+    padding: 15px 15px;
+    color: #37a1f3; 
+    background: white; 
+}
+#twitter:hover{
+    cursor: pointer;
+}
+
+
+
+
